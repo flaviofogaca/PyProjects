@@ -35,6 +35,7 @@ Bem-vindo ao meu repositório de projetos de análise de dados! Aqui, compartilh
    ```bash
    jupyter notebook
 
+5. Lembre-se de baixar o .csv de cada desafio para rodar! =D
 
 Contato
 
