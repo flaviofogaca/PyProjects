@@ -14,9 +14,9 @@ Esse repositório foi criado para mostrar os casos de estudo e desafios realizad
 
 - **Previsão cancelamento plataforma Streaming**: Criado um modelo de classificação para mapear qual o perfil de usuários tem mais chance de deixar sua plataforma de streaming. Compreender qual é o perfil que está aumentando o ***churn*** do negócio é essencial para tomar ações que reduzam essas perdas, seja alterando critérios na venda ou modificando o produto.
 
-[Link do Colab](https://colab.research.google.com/drive/1NkcAvkRekYeEIWZ1_p3EhGGnR6c9MTuU#scrollTo=8TNfa498wWgm)
-
 *Churn (ou churn rate) é o termo usado pra representar a taxa de cancelamento de clientes.*
+
+[Link do Colab](https://colab.research.google.com/drive/1NkcAvkRekYeEIWZ1_p3EhGGnR6c9MTuU#scrollTo=8TNfa498wWgm)
 
 ---
 📚 **Tecnologias Utilizadas**
