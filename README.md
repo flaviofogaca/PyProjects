@@ -23,16 +23,16 @@ Bem-vindo ao meu repositório de projetos de análise de dados! Aqui, compartilh
    git clone https://github.com/flaviofogaca/PyProjects.git
 
 2. Navegue até o diretório:
-
-cd PyProjects
+   ```bash
+   cd PyProjects
 
 3. Instale as dependências:
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. Execute os notebooks com o Jupyter:
-
-    jupyter notebook
+   ```bash
+   jupyter notebook
 
 
 Contato
