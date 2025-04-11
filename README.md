@@ -10,7 +10,11 @@ Esse repositório foi criado para mostrar os casos de estudo e desafios realizad
 
 - **Modelo de análise das métricas RFV**: Utilizado um modelo de Clustering para criar um sistema de agrupamento de perfis de clientes para um e-commerce. Analisado o modelo mais eficiente, capaz de tornar as análises mais simplificadas para a empresa.
 
+[Link do Colab](https://colab.research.google.com/drive/1xZrZQv5FIxfiIlJlPupMjq-_v1vLPmkH)
+
 - **Previsão cancelamento plataforma Streaming**: Criado um modelo de classificação para mapear qual o perfil de usuários tem mais chance de deixar sua plataforma de streaming. Compreender qual é o perfil que está aumentando o ***churn*** do negócio é essencial para tomar ações que reduzam essas perdas, seja alterando critérios na venda ou modificando o produto.
+
+[Link do Colab](https://colab.research.google.com/drive/1NkcAvkRekYeEIWZ1_p3EhGGnR6c9MTuU#scrollTo=8TNfa498wWgm)
 
 *Churn (ou churn rate) é o termo usado pra representar a taxa de cancelamento de clientes.*
 
@@ -23,27 +27,6 @@ Esse repositório foi criado para mostrar os casos de estudo e desafios realizad
 - Matplotlib
 - Seaborn
 - SciKit-Learn
----
-💻 **Como Executar**
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/flaviofogaca/PyProjects.git
-
-2. Navegue até o diretório:
-   ```bash
-   cd PyProjects
-
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-
-4. Execute os notebooks com o Jupyter:
-   ```bash
-   jupyter notebook
-
-5. Lembre-se de baixar o .csv de cada desafio para rodar! =D
-
 ---
 
 📬 **Contato**
