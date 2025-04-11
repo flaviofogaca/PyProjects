@@ -15,6 +15,7 @@ Bem-vindo ao meu repositório de projetos de análise de dados! Aqui, compartilh
 - Pandas
 - Matplotlib
 - Seaborn
+- SciKit-Learn
 
 ##Como Executar
 
