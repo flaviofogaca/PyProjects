@@ -31,4 +31,4 @@ Esse repositório foi criado para mostrar os casos de estudo e desafios realizad
 
 📬 **Contato**
 
-Pode me chamar no [LinkedIn](https://www.linkedin.com/in/flavio-foga%C3%A7a-a71615199/). Ou se preferir, me envie um [e-mail](mailto:flavio.eli22@live.com).
+Pode me chamar no [LinkedIn](https://www.linkedin.com/in/flavio-fogaca/). Ou se preferir, me envie um [e-mail](mailto:flavio.eli22@live.com).
